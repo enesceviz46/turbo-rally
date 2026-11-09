@@ -1,0 +1,12 @@
+{
+  "name": "turbo-rally-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Turbo Rally mobil uygulama (Capacitor)",
+  "scripts": {
+    "sync": "npx cap sync",
+    "android": "npx cap open android",
+    "ios": "npx cap open ios",
+    "assets": "npx @capacitor/assets generate --iconBackgroundColor #0a0420 --splashBackgroundColor #0a0420"
+  }
+}

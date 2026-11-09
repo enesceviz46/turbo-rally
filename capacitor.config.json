@@ -1,0 +1,12 @@
+{
+  "appId": "com.turborally.game",
+  "appName": "Turbo Rally",
+  "webDir": "www",
+  "backgroundColor": "#0a0420",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}
